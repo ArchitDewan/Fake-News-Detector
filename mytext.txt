@@ -1,1 +1,11 @@
-A powerful earthquake struck central Turkey and northwestern Syria, leaving thousands dead and many more injured. The 7.8-magnitude quake, one of the strongest to hit the region in a century, toppled buildings and infrastructure, causing widespread devastation. Rescue teams from around the world have rushed to assist in searching for survivors trapped under rubble. The disaster has put immense pressure on emergency services, particularly in war-torn Syria, where humanitarian aid was already scarce. Officials have declared a state of emergency in several provinces, with freezing temperatures complicating rescue efforts. International organizations, including the United Nations and Red Cross, are mobilizing aid and resources to help affected communities. Experts warn that aftershocks could continue for weeks, posing additional risks to rescue operations and already unstable buildings.
+Researchers at the University of Toronto have announced a major breakthrough in solar cell technology, achieving a record-breaking 39.5% efficiency in converting sunlight into energy. This advancement is expected to significantly enhance renewable energy systems worldwide.
+
+The team, led by Dr. Angela Morris, developed a new multi-junction solar cell design that incorporates perovskite layers combined with silicon, creating a tandem cell that optimizes light absorption. Perovskite materials have been widely studied for their potential to boost solar efficiency, but stability has been a challenge — one that Dr. Morris' team addressed using a unique coating process.
+
+"By introducing a stabilized interface layer between the silicon and perovskite materials, we achieved improved durability alongside record-breaking efficiency," Dr. Morris explained in a press conference.
+
+The innovation has drawn significant attention from both industry and environmental groups. Energy experts believe this discovery could accelerate the global transition to clean energy, especially in developing nations with high solar potential.
+
+"This breakthrough addresses a key bottleneck in solar power," said Jonathan Reed, Director of Renewable Solutions Canada. "More efficient solar cells mean fewer panels are required to generate the same amount of power, reducing costs and land usage."
+
+The University of Toronto’s research team is now working with industry partners to scale the technology for commercial use. Experts predict that with further development, the new solar cells could be widely available within the next five years.
