@@ -72,13 +72,7 @@ The model is trained using the **fake_or_real_news.csv** dataset, which contains
 - **Pandas** for data manipulation.  
 - **NumPy** for numerical operations.  
 
-## Contributing
-Contributions are welcome! If you'd like to improve this project, please follow these steps:
-1. Fork the repository.  
-2. Create a new branch (`git checkout -b feature/your-feature`).  
-3. Commit your changes (`git commit -m "Add feature XYZ"`).  
-4. Push to the branch (`git push origin feature/your-feature`).  
-5. Create a pull request for review.  
+
 
 ## License
 This project is licensed under the **MIT License**. Feel free to modify and distribute it as needed.
@@ -86,4 +80,4 @@ This project is licensed under the **MIT License**. Feel free to modify and dist
 ## Contact
 For questions, suggestions, or contributions, please contact: **architdewan2006@gmail.com**
 
-# Fake-News-Detector
+
